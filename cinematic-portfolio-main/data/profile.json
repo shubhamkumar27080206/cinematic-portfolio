@@ -1,177 +1,234 @@
 {
   "name": {
-    "first": "Jyoti",
-    "last": "Sinha",
-    "full": "Jyoti Sinha"
+    "first": "Shubham",
+    "last": "Kumar",
+    "full": "Shubham Kumar"
   },
-  "email": "jyotisinha0526@gmail.com",
-  "tagline": "Designing reliable Control-M operations, automation, and AI-assisted support systems.",
-  "description": "Control-M SME and production support specialist with 15+ years across banking, enterprise workload automation, ITSM, RPA, and AI-assisted operations.",
+  "email": "shubhamkumar27080206@gmail.com",
+  "tagline": "Designing scalable cloud architecture, infrastructure as code, and automated CI/CD pipelines.",
+  "description": "Senior DevOps and Cloud Engineer with 5+ years of experience designing, deploying, and managing multi-cloud infrastructure across AWS, Azure, and GCP.",
   "roles": {
-    "short": "Software Engineer",
-    "detailed": "Control-M SME | Production L3 Support | Agentic AI Automation"
+    "short": "DevOps Engineer",
+    "detailed": "Senior DevOps & Cloud Engineer | Infrastructure as Code | Container Orchestration"
   },
   "location": {
-    "based": "Singapore",
-    "availability": "Singapore / Remote"
+    "based": "Greater Noida, India",
+    "availability": "On-site / Remote / Hybrid"
   },
   "available": true,
-  "bio": "IT professional with 15+ years of experience in Control-M administration, batch workflow design, production support, infrastructure management, automation, and ITIL-led service delivery. Currently supporting enterprise Control-M customers at BMC Software, with deep experience across banking environments, Unix/Linux and Windows platforms, shell scripting, Python, SQL, VBA, UiPath RPA, REST APIs, and AI-assisted support tooling.",
+  "bio": "Senior DevOps and Cloud Engineer with 5+ years of experience specializing in Infrastructure as Code using Terraform and Ansible, cloud security with IAM, and container orchestration on EKS/AKS/GKE with Helm. Proficient in engineering end-to-end CI/CD pipelines and production observability stacks, delivering up to 50% reduction in deployment times and 25% savings in multi-cloud expenditure.",
   "stats": [
-    { "value": "15+", "label": "Years Experience" },
-    { "value": "8+", "label": "Enterprise Roles" },
-    { "value": "2", "label": "AI Automation Projects" }
+    { "value": "5+", "label": "Years Experience" },
+    { "value": "5+", "label": "Cloud Platforms" },
+    { "value": "12+", "label": "Key Projects" }
   ],
   "skills": [
-    "Control-M SME",
-    "L2/L3 Support",
-    "Batch Scheduling",
-    "Production Support",
-    "Agentic AI",
-    "Automation",
-    "Unix/Linux",
-    "Shell Scripting",
-    "Python",
-    "SQL",
-    "UiPath RPA",
-    "ITIL",
-    "ServiceNow",
-    "Jira",
-    "RCA",
-    "REST API"
+  "EC2","S3","IAM","ALB","Route 53","ECR","ECS","EKS","Lambda","RDS","SNS",
+  "CloudWatch","CloudTrail","GuardDuty","Security Hub",
+  "AKS","ACR","Key Vault","Azure AD","Azure DevOps","Azure Monitor",
+  "GKE","Anthos","Cloud SQL","Pub/Sub","Cloud Functions",
+  "Jenkins","GitHub Actions","GitLab CI/CD","AWS CodePipeline",
+  "Docker","","Helm",
+  "Prometheus","Grafana","Dynatrace",
+  "IAM","RBAC","Secrets Manager","VPC","NACLs","Security Groups","Encryption","Vulnerability Scanning",
+  "Bash","Shell","Python","YAML","PowerShell",
+  "MySQL","PostgreSQL",
+  "Nginx","Tomcat"
+
   ],
   "experience": [
     {
       "id": 1,
-      "role": "Control-M Staff Technical Analyst",
-      "company": "BMC Software Asia Pacific Pte Ltd",
-      "companyShort": "BMC SOFTWARE",
+      "role": "Senior Project Engineer - DevOps & Cloud",
+      "company": "Wipro Technologies",
+      "companyShort": "WIPRO",
       "type": "Full-time",
-      "location": "Singapore",
-      "period": "Nov 2022",
+      "location": "Gurgaon, India",
+      "period": "Dec 2024",
       "periodEnd": "Present",
       "bullets": [
-        "Provide Level 2 and Level 3 technical support for Control-M across enterprise Linux, Unix, and Windows environments.",
-        "Advise global customers on Control-M architecture, workload optimization, upgrades, migrations, compatibility, and operational best practices.",
-        "Perform RCA, reproduce customer issues in lab environments, validate fixes, manage escalations to R&D, and publish knowledge articles and videos.",
-        "Built AI-powered Control-M Log Analyzer and Salesforce case follow-up automation to reduce manual investigation and improve support response time."
+        "Led containerized microservices deployments on AWS EKS and ECS, integrated with automated CI/CD pipelines (Jenkins, GitHub Actions), reducing deployment time by 40-50%.",
+        "Designed and managed large-scale AWS infrastructure including EC2, RDS, EFS, Lambda, ECR, Load Balancers, and Secrets Manager across multiple high-availability clusters.",
+        "Implemented Infrastructure as Code using Terraform, reducing manual provisioning effort by 60%+ and minimizing configuration drift across AWS, Azure, and GCP environments.",
+        "Enforced cloud security and DevSecOps best practices by implementing IAM policies, RBAC, VPC architectures, encryption, vulnerability scanning, and multi-tool monitoring.",
+        "Drove cost optimization through tagging strategies, budget alerts, and right-sizing, reducing cloud spend by 15-25% across key workloads."
       ],
-      "desc": "Enterprise Control-M technical support, architecture advisory, RCA, escalation management, upgrade planning, and AI-assisted automation for global customers.",
-      "tech": ["Control-M", "Linux", "Unix", "Windows", "Python", "OpenAI API", "React", "Node.js", "ITSM"]
+      "desc": "Multi-cloud infrastructure management, container orchestration, IaC implementation, DevSecOps automation, and cloud cost optimization initiatives.",
+      "tech": ["AWS", "Azure", "GCP", "Terraform", "", "Helm", "Jenkins", "GitHub Actions", "Prometheus", "Grafana", "Datadog"]
     },
     {
       "id": 2,
-      "role": "Control-M Analyst",
-      "company": "United Overseas Bank (UOB)",
-      "companyShort": "UOB",
+      "role": "Scholar Trainee - Cloud & DevOps",
+      "company": "Wipro Technologies",
+      "companyShort": "WIPRO",
       "type": "Full-time",
-      "location": "Singapore",
-      "period": "Aug 2021",
-      "periodEnd": "Nov 2022",
+      "location": "Pune, India",
+      "period": "Feb 2021",
+      "periodEnd": "Nov 2024",
       "bullets": [
-        "Supported Operations & Technology Control-M administration, scheduling, production support, and batch workflow management.",
-        "Automated manual activities using VB scripting, VBA macros, batch scripts, Unix shell scripts, and SQL to improve operational efficiency.",
-        "Implemented LDAP authentication for Control-M access and supported upgrades, migrations, HA setup, DR checks, and production changes.",
-        "Handled incidents, problems, and changes through Remedy, Jira, and ServiceNow while coordinating with application, infrastructure, and business teams."
+        "Containerized and deployed a GenAI application on Amazon ECS, automating build and release pipelines through CI/CD for stable inference performance.",
+        "Managed AWS infrastructure setup for an e-commerce client, including ECS clusters, RDS databases, and load balancers, maintaining 99.9% uptime.",
+        "Developed and maintained automation scripts in Bash, Python, Groovy, and YAML for provisioning, configuration management, and pipeline acceleration.",
+        "Contributed to a cloud migration project, validating and cleaning CMDB data for multiple clients to enable accurate asset inventory and governance."
       ],
-      "desc": "Control-M SME support for banking operations, automation, access management, batch execution, DR verification, and ITIL-aligned service delivery.",
-      "tech": ["Control-M", "Unix", "Shell", "VBA", "SQL", "Remedy", "Jira", "ServiceNow", "AIX"]
+      "desc": "Cloud deployment support, GenAI application containerization, pipeline scripting, e-commerce infrastructure management, and cloud migration inventory validation.",
+      "tech": ["AWS ECS", "RDS", "Bash", "Python", "Groovy", "YAML", "Selenium", "CMDB"]
     },
     {
       "id": 3,
-      "role": "RPA Consultant & Business Analyst",
-      "company": "ABeam Consulting (OCBC Bank)",
-      "companyShort": "ABEAM / OCBC",
-      "type": "Consulting",
-      "location": "Singapore",
-      "period": "Jun 2019",
-      "periodEnd": "Mar 2020",
+      "role": "Summer Intern - IoT Engineering",
+      "company": "IIT Patna",
+      "companyShort": "IIT PATNA",
+      "type": "Internship",
+      "location": "Patna, India",
+      "period": "Jun 2020",
+      "periodEnd": "Aug 2020",
       "bullets": [
-        "Delivered end-to-end UiPath automation solutions for banking operations, reducing manual processing across multiple business processes.",
-        "Gathered requirements with stakeholders and authored BRD, PDD, and SDD documentation for automation delivery.",
-        "Designed workflows with exception handling, screen scraping, data scraping, CSV/Excel outputs, and reliable bot scheduling through UiPath Orchestrator."
+        "Designed and implemented an IoT-based distance-measuring device integrating sensors, microcontrollers, and cloud data transmission for real-time monitoring.",
+        "Developed device communication protocols enabling reliable data transfer between IoT components and cloud endpoints."
       ],
-      "desc": "RPA delivery and business analysis for card operations, billing, merchant payment processes, and production automation workflows.",
-      "tech": ["UiPath", "RPA", "BRD", "PDD", "SDD", "Excel", "Automation", "Banking"]
+      "desc": "IoT hardware integration, sensor microcode development, and cloud data transmission protocol design.",
+      "tech": ["IoT", "Sensors", "Microcontrollers", "Cloud Data Transmission", "Communication Protocols"]
     },
-    {
-      "id": 4,
-      "role": "Control-M Analyst",
-      "company": "Bank of Singapore",
-      "companyShort": "BOS",
-      "type": "Full-time",
-      "location": "Singapore",
-      "period": "May 2018",
-      "periodEnd": "Apr 2019",
-      "bullets": [
-        "Provided end-to-end production support for Control-M failures, workflow development, server management, environment changes, and upgrades.",
-        "Managed Control-M/EM components, agents, calendars, dependencies, post-processing alerts, urgent changes, and weekend implementation roadmaps.",
-        "Worked with teams on RCA, proactive batch cycle analysis, SLA adherence, and production incident reduction across Unix, Windows, and T24 workflows."
-      ],
-      "desc": "Production support and Control-M administration for banking operations, change delivery, workflow design, and incident resolution.",
-      "tech": ["Control-M", "Unix", "Windows", "T24", "RCA", "SLA", "Change Management"]
-    }
+
+  {
+  "id": 4,
+  "role": "Intern – Software Development",
+  "company": "C-DAC (Centre for Development of Advanced Computing)",
+  "companyShort": "C-DAC",
+  "type": "Internship",
+  "location": "Patna, India",
+  "period": "Jan 2020",
+  "periodEnd": "Mar 2020",
+  "bullets": [
+    "Worked on live software development projects using PHP and Java in a collaborative environment.",
+    "Developed and optimized backend logic and database interactions using MySQL.",
+    "Performed automated testing using Selenium to ensure application reliability and functionality.",
+    "Collaborated with team members to design, develop, and test web-based applications."
+  ],
+  "desc": "Hands-on experience in full-stack web development, database management, and test automation using PHP, Java, Selenium, and MySQL on live projects.",
+  "tech": ["PHP", "Java", "Selenium", "MySQL", "Web Development", "Automation Testing"]
+},
+
+{
+
+
+ "id": 5,
+  "role": "Summer Intern - IoT Engineering",
+  "company": "IIT Kharagpur",
+  "companyShort": "IIT KHARAGPUR",
+  "type": "Internship",
+  "location": "Kharagpur, India",
+  "period": "Jan 2018",
+  "periodEnd": "Jan 2018",
+  "bullets": [
+    "Designed and developed an Arduino-based distance measuring device using a custom-built enclosure, integrating sensors for accurate real-time measurements.",
+    "Built and configured a custom Raspberry Pi OS environment to support IoT data processing and device communication.",
+    "Implemented reliable communication protocols for seamless data transmission between hardware components and cloud endpoints."
+  ],
+  "desc": "IoT hardware prototyping, Arduino-based sensor integration, Raspberry Pi OS customization, and communication protocol development.",
+  "tech": ["IoT", "Arduino", "Sensors", "Raspberry Pi", "Custom OS", "Communication Protocols"]
+
+
+}
   ],
   "projects": [
     {
       "id": 1,
-      "title": "Log Analyzer",
-      "subtitle": "AI-Powered RCA Assistant",
-      "type": "Agentic AI",
-      "link": "https://ctm-log-analyzer.netlify.app/",
-      "image": "/assets/project-artgenio1.png",
-      "tech": ["React", "Node.js", "OpenAI API", "Prompt Engineering", "Control-M", "Log Analysis"],
-      "desc": "Designed and developed an LLM-powered support tool that analyzes Control-M logs, extracts structured insights from unstructured data, and surfaces probable root causes with actionable troubleshooting steps."
+      "title": "GenAI Application Deployment",
+      "subtitle": "ECS Infrastructure & CI/CD",
+      "type": "Cloud Architecture",
+      "image": "/assets/agent.png",
+      "tech": ["Docker", "AWS ECS", "GitHub Actions", "AWS ECR", "RDS", "Vulnerability Scanning"],
+      "desc": "Reduced inference latency by optimizing compute and networking configurations on ECS, achieving stable performance for a production GenAI workload while automating an end-to-end deployment pipeline."
     },
     {
       "id": 2,
-      "title": "Case Follow-Up Automation",
-      "subtitle": "AI-Driven Support Workflow",
-      "type": "Automation",
-      "link": "https://www.linkedin.com/feed/update/urn:li:activity:7453443679396003840/",
+      "title": "Multi-Cloud Infrastructure Automation",
+      "subtitle": "Reusable IaC Architecture",
+      "type": "Infrastructure as Code",
+      "image": "/assets/infra.png",
+      "tech": ["Terraform", "AWS", "Azure", "GCP", "Bash"],
+      "desc": "Implemented reusable Terraform modules for provisioning VPCs, EKS clusters, and RDS instances across multi-cloud environments, cutting provisioning time down to under 30 minutes and enforcing tight RBAC and IAM controls."
+    },
+    {
+      "id": 3,
+      "title": "Observability Stack Implementation",
+      "subtitle": "Centralized Metrics and Logging",
+      "type": "Monitoring & Ops",
       "image": "/assets/project-easyfolio1.png",
-      "tech": ["Python", "Salesforce", "SMTP", "AI Automation", "SLA", "Support Ops"],
-      "desc": "Built a Python-based automation system to monitor support cases and trigger intelligent follow-up emails, improving response time, reducing manual effort, and strengthening SLA compliance."
-    }
+      "tech": ["Prometheus", "Grafana", "Datadog", "", "Alerting"],
+      "desc": "Designed and deployed a full observability stack covering metrics, distributed tracing, and log aggregation for microservices running on EKS, reducing MTTR by over 30% through predictive SLO tracking and dashboards."
+    },
+     {
+      "id": 4,
+      "title": "Online Voting System",
+      "subtitle": "College Project",
+      "type": "Voting",
+      "image": "/assets/vote.png",
+      "tech": ["PHP", "Mysql", "Html", "Css", "Alerting"],
+      "desc": "Designed and implemented a college-level online voting system enabling efficient, secure, and fair selection of Head Captain and Marshal candidates."
+    },
+    {
+  "id": 5,
+  "title": "Travel & Tourism Booking System",
+  "subtitle": "Hotel & Trip Management Platform",
+  "type": "Web Application",
+  "image": "/assets/Tour.png",
+  "tech": ["PHP", "MySQL", "HTML", "CSS", "JavaScript"],
+  "desc": "Designed and developed a web-based travel and tourism booking platform enabling users to explore destinations, book hotels, and manage travel reservations efficiently. Implemented dynamic booking workflows, database-driven hotel listings, and user-friendly interfaces to enhance overall user experience."
+}
+   
   ],
   "publications": [
     {
       "id": 1,
-      "title": "Control-M Log Analyzer",
-      "platform": "Live Demo",
+      "title": "AWS Certified Solutions Architect",
+      "platform": "Amazon Web Services",
       "year": "2026",
-      "link": "https://ctm-log-analyzer.netlify.app/",
-      "desc": "An AI-powered log analysis prototype for Control-M support, using LLM workflows to detect likely root causes and generate troubleshooting guidance."
+      "desc": "Professional certification validating expertise in designing distributed, cost-optimized, fault-tolerant systems on AWS."
     },
     {
       "id": 2,
-      "title": "AI-Driven Salesforce Case Follow-Up",
-      "platform": "LinkedIn",
-      "year": "2026",
-      "link": "https://www.linkedin.com/feed/update/urn:li:activity:7453443679396003840/",
-      "desc": "A support automation concept using Python and AI-assisted monitoring to improve follow-up discipline, response speed, and SLA adherence."
+      "title": "Google Cloud Digital Leader & Azure Fundamentals",
+      "platform": "Multi-Cloud Certification",
+      "year": "2025",
+      "desc": "Core fundamental cloud architectural validation spanning GCP core cloud concepts and Microsoft Azure platform structures (AZ-900)."
+    },
+    
+    {
+   "id": 3,
+  "title": "Microsoft Azure Fundamentals",
+  "platform": "Certification",
+  "year": "2024",
+  "desc": "Gained foundational knowledge of Microsoft Azure cloud services, including core concepts of cloud computing, Azure architecture, pricing models, governance, and security. Demonstrated understanding of key services such as compute, networking, storage, and identity management aligned with AZ-900 certification."
+
+    },
+
+{
+"id": 4,
+  "title": "AWS Certified Cloud Practitioner",
+  "platform": "Certification",
+  "year": "2024",
+  "desc": "Achieved AWS Certified Cloud Practitioner certification, demonstrating strong understanding of AWS core services, cloud architecture principles, security best practices, and cost optimization strategies across global cloud infrastructure."
+},
+    {
+      "id": 5,
+      "title": "Multi-Cloud Infrastructure Automation",
+      "platform": "Internal Certification",
+      "year": "2025",
+      "desc": "Modular provisioning using Terraform across AWS, Azure, and GCP, Docker, Rhel, Vmware cluster governance via Helm, and service mesh routing configurations."
     },
     {
-      "id": 3,
-      "title": "Enterprise Control-M Advisory",
+      "id": 6,
+      "title": "Production Observability & DevSecOps Systems",
       "platform": "Practice Area",
       "year": "2026",
-      "link": "mailto:jyotisinha0526@gmail.com",
-      "desc": "Architecture, sizing, upgrade planning, migration support, compatibility guidance, RCA, and runbook validation for Control-M environments."
-    },
-    {
-      "id": 4,
-      "title": "RPA & Process Documentation",
-      "platform": "Practice Area",
-      "year": "2026",
-      "link": "mailto:jyotisinha0526@gmail.com",
-      "desc": "Business analysis, PDD and SDD creation, UiPath workflow delivery, and production-ready automation design for banking operations."
+      "desc": "Deployment of end-to-end monitoring metrics (Prometheus, Grafana, Datadog), log management setups (ELK, Splunk), and automated vulnerability pipeline scanners."
     }
   ],
   "socials": [
-    { "label": "GitHub",    "href": "https://github.com/jyotisinha0526/jyotisinha0526" },
-    { "label": "LinkedIn",  "href": "https://www.linkedin.com/in/jyoti-sinha-05349736" },
-    { "label": "Instagram", "href": "https://www.instagram.com/jyotisinha.official" },
-    { "label": "YouTube",   "href": "https://www.youtube.com/@Jyoti.ai.creative" }
+    
+    { "label": "LinkedIn", "href": "https://www.linkedin.com/in/shubham-kumar-0201199b9" }
   ]
 }
